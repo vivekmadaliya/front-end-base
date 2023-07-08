@@ -1,0 +1,11 @@
+.myTypography{
+    font-family: monospace !important;
+    font-weight: 700 !important;
+    letter-spacing: .3rem !important;
+    color: inherit;
+    text-decoration: none;
+}
+
+.ContainerStyle{
+    padding: 20px;
+}
